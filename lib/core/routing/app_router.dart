@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:learning_center_system/core/routing/routes.dart';
-import 'package:learning_center_system/features/home%20page/views/home_page.dart';
-import 'package:learning_center_system/features/sign%20in/sign_in_page.dart';
+import 'package:learning_center_system/features/home%20page/presentation/views/home_page.dart';
+import 'package:learning_center_system/features/sign%20in/presentation/views/sign_in_page.dart';
 
 class AppRouter {
   static Route? onGenerate(RouteSettings routeSettings) {

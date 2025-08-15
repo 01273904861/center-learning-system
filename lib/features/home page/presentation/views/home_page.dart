@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:learning_center_system/features/home%20page/widgets/quick_action_card.dart';
-import 'package:learning_center_system/features/home%20page/widgets/stat_card.dart';
+import 'package:learning_center_system/features/home%20page/presentation/widgets/quick_action_card.dart';
+import 'package:learning_center_system/features/home%20page/presentation/widgets/stat_card.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
